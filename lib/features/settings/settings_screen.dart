@@ -83,7 +83,7 @@ class _SettingsScreenState extends State<SettingsScreen> {
                     return;
                   }
 
-                  ScaffoldMessenger.of(context).showSnackBar(
+                  ScaffoldMessenger.of(this.context).showSnackBar(
                     const SnackBar(content: Text('App data cleared')),
                   );
                 },

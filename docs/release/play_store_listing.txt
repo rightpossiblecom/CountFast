@@ -1,0 +1,26 @@
+Short description:
+Fast visual counting game that sharpens focus in quick sessions.
+
+Full description:
+CountFast is a fast-paced counting game designed for short, addictive sessions.
+
+How it works:
+1. Objects appear on screen for a moment.
+2. They disappear.
+3. You pick how many you saw.
+
+Game modes:
+- Classic Mode: 3 lives, increasing difficulty each round.
+- Time Attack: 60-second sprint for your highest score.
+
+Why players love CountFast:
+- Fast rounds with immediate feedback
+- Smooth transitions and clean visuals
+- High score and streak tracking
+- Daily high score motivation
+- Easy to learn, hard to master
+
+CountFast is built for quick breaks, focus training, and replayable challenge. Play one round and try to beat your best score.
+
+Privacy:
+CountFast does not collect personal data. Scores and settings are stored locally on your device.
